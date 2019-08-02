@@ -1,0 +1,14 @@
+/home/devdevil/Documentos/JARADES/DDD/DDD.Application/bin/Debug/netcoreapp2.2/DDD.Application.deps.json
+/home/devdevil/Documentos/JARADES/DDD/DDD.Application/bin/Debug/netcoreapp2.2/DDD.Application.runtimeconfig.json
+/home/devdevil/Documentos/JARADES/DDD/DDD.Application/bin/Debug/netcoreapp2.2/DDD.Application.runtimeconfig.dev.json
+/home/devdevil/Documentos/JARADES/DDD/DDD.Application/bin/Debug/netcoreapp2.2/DDD.Application.dll
+/home/devdevil/Documentos/JARADES/DDD/DDD.Application/bin/Debug/netcoreapp2.2/DDD.Application.pdb
+/home/devdevil/Documentos/JARADES/DDD/DDD.Application/obj/Debug/netcoreapp2.2/DDD.Application.csprojAssemblyReference.cache
+/home/devdevil/Documentos/JARADES/DDD/DDD.Application/obj/Debug/netcoreapp2.2/DDD.Application.csproj.CoreCompileInputs.cache
+/home/devdevil/Documentos/JARADES/DDD/DDD.Application/obj/Debug/netcoreapp2.2/DDD.Application.RazorAssemblyInfo.cache
+/home/devdevil/Documentos/JARADES/DDD/DDD.Application/obj/Debug/netcoreapp2.2/DDD.Application.RazorAssemblyInfo.cs
+/home/devdevil/Documentos/JARADES/DDD/DDD.Application/obj/Debug/netcoreapp2.2/DDD.Application.AssemblyInfoInputs.cache
+/home/devdevil/Documentos/JARADES/DDD/DDD.Application/obj/Debug/netcoreapp2.2/DDD.Application.AssemblyInfo.cs
+/home/devdevil/Documentos/JARADES/DDD/DDD.Application/obj/Debug/netcoreapp2.2/DDD.Application.RazorTargetAssemblyInfo.cache
+/home/devdevil/Documentos/JARADES/DDD/DDD.Application/obj/Debug/netcoreapp2.2/DDD.Application.dll
+/home/devdevil/Documentos/JARADES/DDD/DDD.Application/obj/Debug/netcoreapp2.2/DDD.Application.pdb

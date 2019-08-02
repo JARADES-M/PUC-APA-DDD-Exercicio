@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/devdevil/Documentos/JARADES/DDD/DDD.Domain/DDD.Domain.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
